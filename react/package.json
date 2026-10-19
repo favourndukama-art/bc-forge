@@ -46,7 +46,7 @@
     "react": "^19.2.8",
     "react-dom": "^19.2.8",
     "ts-jest": "^29.4.12",
-    "tsup": "^8.0.0",
+    "tsup": "^9.0.0",
     "typescript": "^7.0.2",
     "typescript-eslint": "^8.64.0"
   },
